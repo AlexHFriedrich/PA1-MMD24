@@ -1,0 +1,24 @@
+Results for Cosine similarity:
+Accuracy using cosine similarity: 0.598
+               Accuracy using cosine similarity  Accuracy using Euclidean similarity  Number of samples per Genre
+Rock                                      0.789                                0.859                        611.0
+Experimental                              0.096                                0.096                        125.0
+Folk                                      0.212                                0.231                         52.0
+Electronic                                0.750                                0.701                        532.0
+Instrumental                              0.000                                0.000                         74.0
+Hip-Hop                                   0.117                                0.125                        120.0
+Pop                                       0.000                                0.000                         19.0
+International                             0.000                                0.000                          2.0
+
+Results for Euclidean similarity:
+Accuracy using Euclidean distance: 0.621
+               Accuracy using cosine similarity  Accuracy using Euclidean similarity  Number of samples per Genre
+Rock                                      0.820                                0.859                        611.0
+Experimental                              0.064                                0.032                        125.0
+Folk                                      0.404                                0.365                         52.0
+Electronic                                0.767                                0.712                        532.0
+Instrumental                              0.000                                0.000                         74.0
+Hip-Hop                                   0.175                                0.225                        120.0
+Pop                                       0.000                                0.000                         19.0
+International                             0.000                                0.000                          2.0
+
